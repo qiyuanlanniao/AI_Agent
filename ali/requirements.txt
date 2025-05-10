@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain_core
+langchain_openai
+openai
+redis
+google-search-results
+sse-starlette
